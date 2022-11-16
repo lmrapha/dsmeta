@@ -1,6 +1,6 @@
-# A Java Application with Spring Boot and React JS, for learning purposes. Thanks to @acenelio and Spring React Week.
+# :coffee: A Java Application with Spring Boot and React JS, for learning purposes. Thanks to @acenelio and Spring React Week.
 
-## Also, i've learned to implement SMS Service with the REST API in Spring with Twilio. 
+## Also, i've learned to implement SMS Service :speech_balloon: with the REST API in Spring with Twilio. 
 ## Screenshot of the front-end made with React below.
 
 ![alt text](/frontend/src/assets/img/print.png)
